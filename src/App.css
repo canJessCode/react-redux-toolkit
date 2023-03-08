@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  font-size: 5rem;
+  font-weight: bold;
+  color: rgb(100, 228, 233);
+  background-image: linear-gradient(
+    to right,
+    rgb(112, 141, 204),
+    rgb(107, 35, 167)
+  );
+  padding-top: 20px;
+  box-shadow: 5px 5px 10px 10px rgb(69, 34, 99);
 }
 
 .App-logo {
